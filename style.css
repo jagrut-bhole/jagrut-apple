@@ -783,7 +783,7 @@ a {
 
 .menu__link {
     font-size: 1.2rem;
-    color: black;
+    color: rgb(62, 62, 62);
     margin: 0 10px;
     display: inline-block;
     transition: 0.5s;
@@ -797,11 +797,11 @@ a {
 }
 
 .footer p {
-    color: black;
+    color: rgb(62, 62, 62);
     margin: 10px 0 5px 0;
     font-size: 1rem;
     font-weight: 300;
 }
 #year{
-    color: black;
+    color: rgb(62, 62, 62);
 }
