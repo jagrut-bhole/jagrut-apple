@@ -426,27 +426,27 @@ a {
 
 
 .promo1 {
-    background-image: url(./images/iwatch-9.jpg);
+    background-image: url(/images/iwatch-9.jpg);
     background-position-x: center;
     height: 560px;
 }
 
 .promo2 {
-    background-image: url(./images/college-student.jpg);
+    background-image: url(/images/college-student.jpg);
     background-position-x: center;
     height: 560px;
     object-fit: fill;
 }
 
 .promo3 {
-    background-image: url(./images/macbook.jpg);
+    background-image: url(/images/macbook.jpg);
     background-position-x: center;
     height: 560px;
 
 }
 
 .promo4 {
-    background-image: url(./images/apple-reward.jpg);
+    background-image: url(/images/apple-reward.jpg);
     background-position-x: center;
     height: 560px;
     object-fit: fill;
@@ -454,13 +454,13 @@ a {
 }
 
 .promo5 {
-    background-image: url(./images/card.jpg);
+    background-image: url(/images/card.jpg);
     background-position-x: center;
     height: 560px;
 }
 
 .promo6 {
-    background-image: url(./images/trade.jpg);
+    background-image: url(/images/trade.jpg);
     background-position-x: center;
     height: 560px;
     object-fit: cover;
